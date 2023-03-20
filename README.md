@@ -7,6 +7,6 @@ A repository for SET 393 Data Mining Milestones
 - 📃 src folder to veiw the source code.
 
 - Under supervision of 
-Dr Ayman Elshenawy
-Ghada Adel
+  - Dr Ayman Elshenawy
+  - Eng Ghada Adel
 
