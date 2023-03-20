@@ -1,4 +1,4 @@
-# Dat-Mining-Milestones
+# Data-Mining-Milestones
 A repository for SET 393 Data Mining Milestones 
 
 - Under supervision of 
